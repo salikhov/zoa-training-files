@@ -1,0 +1,73 @@
+;-----------------------------------------
+; SFO Normal Ops Heavy Traffic Unbalanced
+; 4 VFR, 40 IFR Departures
+;
+; Author: Maxim Salikhov
+;-----------------------------------------
+
+;-----------------------------------------
+; VFR DEPS
+; 4 fixed wing
+;-----------------------------------------
+
+
+
+;-----------------------------------------
+; RW 01L DEPS
+; 20 jets
+;-----------------------------------------
+CKS1820:B763:J:I:KSFO:KLAX:SSTIK4 EBAYE:/V/: <<>> :N: <<>> : <<>> :13:0:360
+DAL805:A319:J:I:KSFO:KLAX:SSTIK4 EBAYE:/V/: <<>> :N: <<>> : <<>> :13:0:360
+SWA962:B737:J:I:KSFO:KLAX:SSTIK4 EBAYE:/V/: <<>> :N: <<>> : <<>> :13:0:360
+UAL2550:B789:J:I:KSFO:KLAX:SSTIK4 EBAYE:/V/: <<>> :N: <<>> : <<>> :13:0:360
+QXE2820:E75L:J:I:KSFO:KLAX:SSTIK4 EBAYE:/V/: <<>> :N: <<>> : <<>> :13:0:360
+SWA962:B738:J:I:KSFO:KLAX:SSTIK4 EBAYE:/V/: <<>> :N: <<>> : <<>> :13:0:360
+EJA617:C56X:J:I:KSFO:KLAX:SSTIK4 EBAYE:/V/: <<>> :N: <<>> : <<>> :13:0:360
+
+SKW3324:E75L:J:I:KSFO:KSAN:SSTIK4 YYUNG:/V/: <<>> :N: <<>> : <<>> :13:0:360
+SKW3376:E170:J:I:KSFO:KSAN:OFFSH2 MCKEY:/V/: <<>> :N: <<>> : <<>> :13:0:360
+SWA2132:B737:J:I:KSFO:KSAN:OFFSH2 MCKEY:/V/: <<>> :N: <<>> : <<>> :13:0:360
+SWA569:B738:J:I:KSFO:KSAN:OFFSH2 MCKEY:/V/: <<>> :N: <<>> : <<>> :13:0:360
+SWA1123:B738:J:I:KSFO:KSAN:SSTIK4 YYUNG:/V/: <<>> :N: <<>> : <<>> :13:0:360
+
+SWA1242:B738:J:I:KSFO:KLAS:SSTIK4 NTELL:/V/: <<>> :N: <<>> : <<>> :13:0:360
+SWA1551:B737:J:I:KSFO:KLAS:SSTIK4 NTELL:/V/: <<>> :N: <<>> : <<>> :13:0:360
+SWA1402:B738:J:I:KSFO:KLAS:SSTIK4 NTELL:/V/: <<>> :N: <<>> : <<>> :13:0:360
+
+UAL1107:B753:J:I:KSFO:KIAH:SSTIK4 LOSHN:/V/: << >>:N: <<>> : <<>> :13:0:360
+AAL2548:B738:J:I:KSFO:KMIA:SSTIK4 NTELL:/V/: <<>> :N: <<>> : <<>> :13:0:360
+UAL212:A319:J:I:KSFO:KSNA:SSTIK4 YYUNG:/V/: <<>> :N: <<>> : <<>> :13:0:360
+SKW5923:CRJ7:J:I:KSFO:KBUR:SSTIK4 CISKO:/V/: <<>> :N: <<>> : <<>> :13:0:360
+SKW3404:E75L:J:I:KSFO:KPSP:SSTIK4 LOSHN:/V/: <<>> :N: <<>> : <<>> :13:0:360
+
+
+;-----------------------------------------
+; RW 01R DEPS
+; 14 jets
+;-----------------------------------------
+SKW5400:CRJ2:J:I:KSFO:KACV:TRUKN2 GRTFL:/V/:3607:N: <<>> : <<>> :13:0:360
+QXE2146:E75L:J:I:KSFO:KSEA:TRUKN2 DEDHD:/V/:3608:N: <<>> : <<>> :13:0:360
+QXE2122:E75L:J:I:KSFO:KPDX:TRUKN2 GRTFL:/V/:3609:N: <<>> : <<>> :13:0:360
+SKW5285:E75L:J:I:KSFO:KPDX:TRUKN2 GRTFL:/V/:3610:N: <<>> : <<>> :13:0:360
+BAW286:B789:J:I:KSFO:EGLL:TRUKN2 GRTFL:/V/:3611:N: <<>> : <<>> :13:0:360
+UAL1857:B753:J:I:KSFO:KORD:TRUKN2 SYRAH:/V/:3612:N: <<>> : <<>> :13:0:360
+DAL2265:BCS1:J:I:KSFO:KSLC:TRUKN2 MOGEE:/V/:3613:N: <<>> : <<>> :13:0:360
+AAL1960:A321:J:I:KSFO:KCLT:TRUKN2 SYRAH:/V/:3614:N: <<>> : <<>> :13:0:360
+
+
+;-----------------------------------------
+; RW 28L DEPS
+; 4 jets
+;-----------------------------------------
+CAL5107:B744:J:I:KFSO:RCTP:GNNRR2 AMAKR:/V/:3603:N: <<>> : <<>> :13:0:360
+UAL2768:B789:J:I:KSFO:EHAM:SNTNA2 ORRCA:/V/:3604:N: <<>> : <<>> :13:0:360
+EIN60:A332:J:I:KSFO:EIDW:SNTNA2 ORRCA:/V/:3605:N: <<>> : <<>> :13:0:360
+DLH455:A388:J:I:KSFO:EDDF:SNTNA2 ORRCA:/V/:3606:N: <<>> : <<>> :13:0:360
+
+
+;-----------------------------------------
+; RW 28R DEPS
+; 2 jets
+;-----------------------------------------
+TFF927:CL60:J:I:KSFO:KPHX:37000:SSTIK4 EBAYE:/V/:3601:N: <<>> : <<>> :13:0:360
+UPS2355:B763:J:I:KSFO:KRNO:23000:TRUKN2 ORRCA:/V/:3602:N: <<>> : <<>> :13:0:360
