@@ -1,5 +1,5 @@
 icao=KSFO
-magnetic variation=-15.6
+magnetic variation=-13.3
 field elevation=13
 pattern elevation=1013
 pattern size=1
@@ -522,5 +522,3 @@ turnoff=left
 [TAXIWAY Z1]
 37.62533 -122.39349
 37.62610 -122.39268
-
-
