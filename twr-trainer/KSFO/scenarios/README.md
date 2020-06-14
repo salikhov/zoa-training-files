@@ -14,6 +14,7 @@
 
 ## Departure Files
 
-| **Filename**          | **Configuration** | **Difficulty** | **# IFR** | **# VFR** | **Description**                                                        |
-| --------------------- | ----------------- | -------------- | --------- | --------- | ---------------------------------------------------------------------- |
-| `KSFO-L28D01-H-1-DEP` | Land 28/Depart 01 | Hard           | 34        | 6         | Mostly balanced traffic holding short of every runway and the west end |
+| **Filename**         | **Configuration** | **Difficulty** | **# IFR** | **# VFR** | **Description**                                                                                           |
+| -------------------- | ----------------- | -------------- | --------- | --------- | --------------------------------------------------------------------------------------------------------- |
+| `KSFO-L28D01-H1-DEP` | Land 28/Depart 01 | Hard           | 34        | 6         | Mostly balanced traffic holding short of every runway and the west end                                    |
+| `KSFO-L28D01-H2-DEP` | Land 28/Depart 01 | Very Hard      | 39        | 4         | Unbalanced traffic to simulate event; recommended with 15 MIT to LAX/SAN, non-LAX/SAN SSTIKs routed to 1R |
