@@ -14,6 +14,9 @@
 
 ## Departure Files
 
-| **Filename**          | **Configuration** | **Difficulty** | **# IFR** | **# VFR** | **Description**                                                        |
-| --------------------- | ----------------- | -------------- | --------- | --------- | ---------------------------------------------------------------------- |
-| `KSFO-L28D01-H-1-DEP` | Land 28/Depart 01 | Hard           | 34        | 6         | Mostly balanced traffic holding short of every runway and the west end |
+| **Filename**           | **Configuration** | **Difficulty** | **# IFR** | **# VFR** | **Description**                                                             |
+| ---------------------- | ----------------- | -------------- | --------- | --------- | --------------------------------------------------------------------------- |
+| `KSFO-L28D01-H-1-DEP`  | Land 28/Depart 01 | Hard           | 34        | 6         | Mostly balanced traffic holding short of every runway and the west end      |
+| `KSFO-G-L28D01-L1-DEP` | Land 28/Depart 01 | Easy           | 17        | 1         | Simple ground file with a few incorrect routes                              |
+| `KSFO-G-L28D01-L2-DEP` | Land 28/Depart 01 | Medium         | 17        | 1         | Almost the same as `KSFO-G-L28D01-L1-DEP` but with more broken flight plans |
+| `KSFO-G-L28D01-L3-DEP` | Land 28/Depart 01 | Easy           | 17        | 1         | Simple ground file with a few necessary amendments to fligh plans           |
