@@ -2,9 +2,10 @@
 
 ## Combined Files
 
-| **Filename** | **Configuration** | **Difficulty** | **# Departures** | **# Arrivals** | **Description**                                                     |
-| ------------ | ----------------- | -------------- | ---------------- | -------------- | ------------------------------------------------------------------- |
-| `KSFO-BASE`  | N/A               | N/A            | 1                | 0              | File with 1 aircraft, to be used for creating new files using `add` |
+| **Filename**  | **Configuration** | **Difficulty** | **# Departures** | **# Arrivals** | **Description**                                                               |
+| ------------- | ----------------- | -------------- | ---------------- | -------------- | ----------------------------------------------------------------------------- |
+| `KSFO-BASE`   | N/A               | N/A            | 1                | 0              | File with 1 aircraft, to be used for creating new files using `add`           |
+| `KSFO-VFR-M1` | Land 28/Depart 01 | Hard           | 0                | 5              | Short VFR file with variety of traffic, hard when combined with other traffic |
 
 ## Arrival Files
 
