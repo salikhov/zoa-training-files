@@ -20,4 +20,5 @@
 | `KSFO-T-L28D01-L1-DEP` | Land 28/Depart 01 | Easy           | 17        | 0         | Simple tower file with noise abatement flight plans                         |
 | `KSFO-G-L28D01-L1-DEP` | Land 28/Depart 01 | Easy           | 17        | 1         | Simple ground file with a few incorrect routes                              |
 | `KSFO-G-L28D01-L2-DEP` | Land 28/Depart 01 | Medium         | 17        | 1         | Almost the same as `KSFO-G-L28D01-L1-DEP` but with more broken flight plans |
-| `KSFO-G-L28D01-L3-DEP` | Land 28/Depart 01 | Easy           | 17        | 1         | Simple ground file with a few necessary amendments to fligh plans           |
+| `KSFO-G-L28D01-L3-DEP` | Land 28/Depart 01 | Easy           | 17        | 1         | Simple ground file with a few necessary amendments to flight plans          |
+| `KSFO-G-L28D01-M1-DEP` | Land 28/Depart 01 | Medium         | 27        | 2         | Larger ground file with a good bit of messed up flight plans                |
