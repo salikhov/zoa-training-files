@@ -17,7 +17,13 @@
 
 ## Departure Files
 
-| **Filename**         | **Configuration** | **Difficulty** | **# IFR** | **# VFR** | **Description**                                                                                           |
-| -------------------- | ----------------- | -------------- | --------- | --------- | --------------------------------------------------------------------------------------------------------- |
-| `KSFO-L28D01-H1-DEP` | Land 28/Depart 01 | Hard           | 34        | 6         | Mostly balanced traffic holding short of every runway and the west end                                    |
-| `KSFO-L28D01-H2-DEP` | Land 28/Depart 01 | Very Hard      | 39        | 4         | Unbalanced traffic to simulate event; recommended with 15 MIT to LAX/SAN, non-LAX/SAN SSTIKs routed to 1R |
+| **Filename**           | **Configuration** | **Difficulty** | **# IFR** | **# VFR** | **Description**                                                                                           |
+| ---------------------- | ----------------- | -------------- | --------- | --------- | --------------------------------------------------------------------------------------------------------- |
+| `KSFO-L28D01-H-1-DEP`  | Land 28/Depart 01 | Hard           | 34        | 6         | Mostly balanced traffic holding short of every runway and the west end                                    |
+| `KSFO-T-L28D01-L1-DEP` | Land 28/Depart 01 | Easy           | 17        | 0         | Simple tower file with noise abatement flight plans                                                       |
+| `KSFO-G-L28D01-L1-DEP` | Land 28/Depart 01 | Easy           | 17        | 1         | Simple ground file with a few incorrect routes                                                            |
+| `KSFO-G-L28D01-L2-DEP` | Land 28/Depart 01 | Medium         | 17        | 1         | Almost the same as `KSFO-G-L28D01-L1-DEP` but with more broken flight plans                               |
+| `KSFO-G-L28D01-L3-DEP` | Land 28/Depart 01 | Easy           | 17        | 1         | Simple ground file with a few necessary amendments to flight plans                                        |
+| `KSFO-G-L28D01-M1-DEP` | Land 28/Depart 01 | Medium         | 27        | 2         | Larger ground file with a good bit of messed up flight plans                                              |
+| `KSFO-T-L28D01-H1-DEP` | Land 28/Depart 01 | Hard           | 34        | 6         | Mostly balanced traffic holding short of every runway and the west end                                    |
+| `KSFO-T-L28D01-H2-DEP` | Land 28/Depart 01 | Very Hard      | 39        | 4         | Unbalanced traffic to simulate event; recommended with 15 MIT to LAX/SAN, non-LAX/SAN SSTIKs routed to 1R |
